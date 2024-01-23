@@ -1,0 +1,18 @@
+<?xml version ="1.0" encoding="utf-8" standalone="yes"?>
+<minhasPreferencias>
+    <filmes>
+        <filme id="1" titulo="O Jogo da Imitação" ano_lancamento="2014" elenco_principal="Benedict Cumberbatch, Keira Knightley" tipo="Drama" sinopse="História de Alan Turing durante a Segunda Guerra Mundial." />
+        <filme id="2" titulo="O Poderoso Chefão" ano_lancamento="1972" elenco_principal="Marlon Brando, Al Pacino" tipo="Drama" sinopse="Épico sobre a família Corleone no crime organizado." />
+        <filme id="3" titulo="Piratas do Vale do Silício" ano_lancamento="1999" elenco_principal="Noah Wyle, Anthony Michael Hall" tipo="Drama" sinopse="Rivalidade entre Apple e Microsoft na revolução da computação pessoal." />
+    </filmes>
+    <livros>
+        <livro id="1" titulo="O Senhor dos Anéis" autor="J.R.R. Tolkien" ano_lancamento="1954" tipo="Fantasia" numero_paginas="1178" />
+        <livro id="2" titulo="Orgulho e Preconceito" autor="Jane Austen" ano_lancamento="1813" tipo="Romance" numero_paginas="432" />
+        <livro id="3" titulo="Cem Anos de Solidão" autor="Gabriel García Márquez" ano_lancamento="1967" tipo="Ficção Mágica" numero_paginas="448" />
+    </livros>
+    <comidas>
+        <comida id="1" nome="Pizza Margherita" ingredientes="Massa de pizza, molho de tomate, mussarela, tomate, manjericão" />
+        <comida id="2" nome="Sushi" ingredientes="Arroz, alga nori, peixe fresco, abacate" />
+        <comida id="3" nome="Lasanha" ingredientes="Massa de lasanha, carne moída, molho de tomate, queijo" />
+    </comidas>
+</minhasPreferencias>
