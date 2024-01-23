@@ -20,19 +20,24 @@ Commit 3: Alteração novamente da cor para amarela.
 Commit 4: Alteração do corpo do arquivo.
 Commit 5: Alteração da cor para rosa.
 
+![realizando commits ](https://github.com/Evelinymuniz/projetoFinalGit/blob/main/imagens/imagem01.png)
+
 ## 4. Utilização do Git Bisect:
 
 Identificação do commit problemático usando git bisect.
 Reversão e resolução de conflitos.
 
-
+![Utizando bisect](https://github.com/Evelinymuniz/projetoFinalGit/blob/main/imagens/bisect.png)
 
 ## 5. Realização do Merge:
 
 Tentativas de mesclar a branch develop na branch main.
 Resolução de conflitos durante o merge.
 
+![Fazendo merge](https://github.com/Evelinymuniz/projetoFinalGit/blob/main/imagens/merge.png)
+
 ## 6. Conclusão:
 
 Submissão bem-sucedida das alterações na branch main.
 Commits adicionais na branch main para correções e melhorias.
+
