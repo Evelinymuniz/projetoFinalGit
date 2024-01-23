@@ -41,3 +41,4 @@ Resolução de conflitos durante o merge.
 Submissão bem-sucedida das alterações na branch main.
 Commits adicionais na branch main para correções e melhorias.
 
+![html do projeto](https://github.com/Evelinymuniz/projetoFinalGit/blob/main/imagens/Captura%20de%20Tela%20(40).png)
